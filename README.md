@@ -35,9 +35,10 @@ To add our C# Script file to our selected object, click on the C# Script file an
 Stop.
 
 ## Program :
- 
-### DEVELOPED BY : Aishwarya S
-### REG NO : 212222100003
+``` 
+DEVELOPED BY : Vanitha S
+REG NO : 212222100057
+```
 ```
 using System.Collections;
 using System.Collections.Generic;
